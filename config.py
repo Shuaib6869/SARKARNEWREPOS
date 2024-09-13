@@ -25,7 +25,7 @@ SONG_DOWNLOAD_DURATION = int(
 LOGGER_ID = int(getenv("LOGGER_ID", ""))
 
 # Get this value from @Hot_Girl_Robot on Telegram by /id
-OWNER_ID = int(getenv("OWNER_ID", "5097673805"))
+OWNER_ID = int(getenv("OWNER_ID", "6919772024"))
 
 ## Fill these variables if you're deploying on heroku.
 # Your heroku app name
@@ -35,15 +35,15 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/Alex-Trojans/PriyaMusicBot",
+    "https://github.com/SARKAROP123/SARKARNEWREPOS",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Trojans_Community")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/Trojans_Association")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/TG_NAME_STYLE")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/ll_MOI_ll")
 
 
 AUTO_SUGGESTION_MODE = getenv("AUTO_SUGGESTION_MODE", "false")
