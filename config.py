@@ -85,10 +85,10 @@ clean = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://telegra.ph/file/7427956c65d89e998396f.jpg"
+    "START_IMG_URL", "https://telegra.ph/file/41ec8f174b98e691047f7.png"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://telegra.ph/file/7427956c65d89e998396f.jpg"
+    "PING_IMG_URL", "https://telegra.ph/file/41ec8f174b98e691047f7.png"
 )
 PLAYLIST_IMG_URL = "https://te.legra.ph/file/754e95311eccb48b7aafc.jpg"
 STATS_IMG_URL = "https://te.legra.ph/file/754e95311eccb48b7aafc.jpg"
